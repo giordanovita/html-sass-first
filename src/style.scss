@@ -1,0 +1,22 @@
+$red: red;
+$mainColor:darkblue;
+$buttonBg:white;
+$fontOl:15px;
+
+
+body{
+    background-color: purple;
+
+    h1{
+        color:$red;
+        text-align: center;
+    }
+
+    h3,button{
+        color: $mainColor;
+    }
+
+    ol li{
+        font-size:$fontOl ;
+    }
+}
